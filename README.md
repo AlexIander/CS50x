@@ -13,3 +13,7 @@ Finished the first lecture of week 1.
 
 2 projects to work on. 1. Generating the Mario pyramids and 2. verifying the credit card numbers.
 The verifying looks to be the more interesting of the two.
+
+20180901
+Starting the Mario Project
+I know that I need a do while loop for getting input for the height of the pyramids. But since I haven't seen all the little lectures for week one yet, I have no idea about the syntax required and keep getting errors. And trying to get the Boolean expression to output False when given a height between 0 and 23 is also tricky. Will definitely need to be clever with that one.
